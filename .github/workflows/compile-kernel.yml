@@ -76,7 +76,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -guangzhi.sec
 
 env:
   TZ: America/New_York

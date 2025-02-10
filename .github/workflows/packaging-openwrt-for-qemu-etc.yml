@@ -99,7 +99,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - guangzhi.sec
 
 env:
   TZ: America/New_York
